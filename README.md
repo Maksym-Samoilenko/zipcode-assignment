@@ -10,3 +10,11 @@ To  deploy application locally:
 To test locally:
 * Correct scenario `curl -X POST http://localhost:4000/graphql/ -H "Content-Type: application/json" -d '{"query": "query getzip($arg1: String) { getZipByCode(code: $arg1){zip{ city county} }}","operationName": "getzip","variables": { "arg1": "20607" }}'  `
 * Error scenario `curl -X POST http://localhost:4000/graphql/ -H "Content-Type: application/json" -d '{"query": "query getzip($arg1: String) { getZipByCode(code: $arg1){zip{ city county} }}","operationName": "getzip","variables": { "arg1": "2067" }}'  `
+
+To check store data go to Mongo Express UI http://localhost:8081/
+
+Writeup on what you would tackle next:
+* Add custom validator for zip code by using directives(according to: https://www.apollographql.com/blog/backend/validation/graphql-validation-using-directives/)
+* For bigger projects working with data store objects  mongoose schema is more preferable than direct connection to mongodb via driver.
+* For bigger projects correct foldering needed (schema, object type,object queries, mutation queries), not all query in one file and resolvers and dataSources is defined in app.ts.
+* Data conection should be defined is separate folder/files, not in app.ts and think about better handling of requests to database (open and close connection on each request is not good solution),
