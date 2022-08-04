@@ -8,17 +8,7 @@ To  deploy application locally:
 * `docker-compose up`
 
 To test locally:
-* `Correct scenario: curl -X POST hhttp://localhost:4000/graphql/
-   -H "Content-Type: application/json"
-   -d '{
-  "query": "query getzip($arg1: String) { getZipByCode(code: $arg1){zip{ city county} }}",
-  "operationName": "getzip",
-  "variables": { "arg1": "20607" }
-}'  `
-* `Error scenario: curl -X POST hhttp://localhost:4000/graphql/
-   -H "Content-Type: application/json"
-   -d '{
-  "query": "query getzip($arg1: String) { getZipByCode(code: $arg1){zip{ city county} }}",
-  "operationName": "getzip",
-  "variables": { "arg1": "2067" }
-}'  `
+Correct scenario 
+* `curl -X POST http://localhost:4000/graphql/ -H "Content-Type: application/json" -d '{"query": "query getzip($arg1: String) { getZipByCode(code: $arg1){zip{ city county} }}","operationName": "getzip","variables": { "arg1": "20607" }}'  `
+Error scenario
+* `curl -X POST http://localhost:4000/graphql/ -H "Content-Type: application/json" -d '{"query": "query getzip($arg1: String) { getZipByCode(code: $arg1){zip{ city county} }}","operationName": "getzip","variables": { "arg1": "2067" }}'  `
