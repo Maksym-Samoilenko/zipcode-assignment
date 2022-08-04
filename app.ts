@@ -30,7 +30,6 @@ async function main() {
   await apolloServer.start();
   const app = express();
   apolloServer.applyMiddleware({ app, path: "/graphql" })
-  app.listen({ port: 4000 }, () =>
-);
+  app.listen({ port: 4000 });
 }
 main();
