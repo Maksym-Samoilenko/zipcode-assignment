@@ -4,5 +4,5 @@ There is task zipcode-assignment presented.
 
 To  deploy application locally:
 * `git clone https://github.com/Maksym-Samoilenko/zipcode-assignment
-* `cd getir_assignment`
+* `cd zipcode-assignment`
 * `docker-compose up`
