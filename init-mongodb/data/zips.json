@@ -1,0 +1,3716 @@
+[
+    {
+        "id": "d53b47a9-156e-4c4c-8fc7-b165a1281ec8",
+        "zip": "20601",
+        "city": "Waldorf",
+        "county": "Charles County"
+    },
+    {
+        "id": "1c3d2bb7-9083-4a5d-8cbe-9e366697392e",
+        "zip": "20602",
+        "city": "Waldorf",
+        "county": "Charles County"
+    },
+    {
+        "id": "e847a286-3dd3-4b02-ad31-a0a3f9ceb4cb",
+        "zip": "20603",
+        "city": "Waldorf",
+        "county": "Charles County"
+    },
+    {
+        "id": "e9d5a1c7-1b89-42ec-a11f-f49127306f69",
+        "zip": "20604",
+        "city": "Waldorf",
+        "county": "Charles County"
+    },
+    {
+        "id": "33f3c875-ed49-49e6-83c8-d7437131795b",
+        "zip": "20606",
+        "city": "Abell",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "3cfab481-01c1-417b-970d-728a1c7d033c",
+        "zip": "20607",
+        "city": "Accokeek",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "fe2cb422-4a37-4622-8cf0-961c4fe538e3",
+        "zip": "20608",
+        "city": "Aquasco",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "3e85f55b-cd9b-4423-8a9b-beabc5c9d05a",
+        "zip": "20609",
+        "city": "Avenue",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "84c99ea5-dd2e-43f5-92fd-ce0292d950a9",
+        "zip": "20610",
+        "city": "Barstow",
+        "county": "Calvert County"
+    },
+    {
+        "id": "5e6b4ece-c319-4cd2-836d-33781ef362f8",
+        "zip": "20611",
+        "city": "Bel Alton",
+        "county": "Charles County"
+    },
+    {
+        "id": "28015374-878f-404d-b04c-520f9dd5942f",
+        "zip": "20612",
+        "city": "Benedict",
+        "county": "Charles County"
+    },
+    {
+        "id": "1258c97a-0756-4978-aa83-d70bd2e448e4",
+        "zip": "20613",
+        "city": "Brandywine",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "18dceb36-183d-4243-b9b9-d68dca7e6291",
+        "zip": "20615",
+        "city": "Broomes Island",
+        "county": "Calvert County"
+    },
+    {
+        "id": "0af3b4c7-2a07-4d3e-be95-9e2983852233",
+        "zip": "20616",
+        "city": "Bryans Road",
+        "county": "Charles County"
+    },
+    {
+        "id": "dc7be78c-dae4-4cc0-9508-3655e26d4df6",
+        "zip": "20617",
+        "city": "Bryantown",
+        "county": "Charles County"
+    },
+    {
+        "id": "ecebc001-c278-440f-82e5-6e177d669370",
+        "zip": "20618",
+        "city": "Bushwood",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "ca25a6cc-4f1c-4748-a734-20030f9f0671",
+        "zip": "20619",
+        "city": "California",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "55824262-0c8a-49c1-a478-101b59fc3c77",
+        "zip": "20620",
+        "city": "Callaway",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "3f3234d7-04ef-46ab-8ff0-11691dc1a653",
+        "zip": "20621",
+        "city": "Chaptico",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "4716fad8-2861-437a-8954-da37dab92a1f",
+        "zip": "20622",
+        "city": "Charlotte Hall",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "db935bbc-d2f3-4d10-8da0-d684c4f7a496",
+        "zip": "20623",
+        "city": "Cheltenham",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "aa7ca6d3-3cc3-4a38-9a29-f47e9bf8e302",
+        "zip": "20624",
+        "city": "Clements",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "b4af76bc-cc0f-40be-abc7-cbd5b62dfda6",
+        "zip": "20625",
+        "city": "Cobb Island",
+        "county": "Charles County"
+    },
+    {
+        "id": "08774cd3-4a89-4358-a4d4-c08dab74e7f6",
+        "zip": "20626",
+        "city": "Coltons Point",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "3e67d956-5cd6-4c09-9f93-28c08a82490f",
+        "zip": "20627",
+        "city": "Compton",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "6f717eee-037d-4211-ab47-cf8326d7f8f9",
+        "zip": "20628",
+        "city": "Dameron",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "ba80ca26-7c05-4cb8-8ee5-7531ede07ce4",
+        "zip": "20629",
+        "city": "Dowell",
+        "county": "Calvert County"
+    },
+    {
+        "id": "46b2a42c-f061-4ada-8b28-ad86f9340e9b",
+        "zip": "20630",
+        "city": "Drayden",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "19db5a7f-6319-4028-aba4-656cb1642ab7",
+        "zip": "20632",
+        "city": "Faulkner",
+        "county": "Charles County"
+    },
+    {
+        "id": "f09917aa-72df-45b4-8cfa-f6bf34312507",
+        "zip": "20634",
+        "city": "Great Mills",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "40648492-b3cf-436d-8bb9-eef8d84ee2fd",
+        "zip": "20635",
+        "city": "Helen",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "855bcf57-38c5-4d62-b0df-5488db66cfdd",
+        "zip": "20636",
+        "city": "Hollywood",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "c83167f9-b190-4751-bcd1-55c9987799d5",
+        "zip": "20637",
+        "city": "Hughesville",
+        "county": "Charles County"
+    },
+    {
+        "id": "5bee5525-78c7-499c-bad9-a6dde0bb3086",
+        "zip": "20639",
+        "city": "Huntingtown",
+        "county": "Calvert County"
+    },
+    {
+        "id": "2bf8c688-1d7d-4347-92e9-82a2fe9a1772",
+        "zip": "20640",
+        "city": "Indian Head",
+        "county": "Charles County"
+    },
+    {
+        "id": "0157581a-9d92-4bd8-8f15-ff46f84881e0",
+        "zip": "20643",
+        "city": "Ironsides",
+        "county": "Charles County"
+    },
+    {
+        "id": "3324b48e-ec12-451b-9c21-a4e1a1674ac7",
+        "zip": "20645",
+        "city": "Issue",
+        "county": "Charles County"
+    },
+    {
+        "id": "2ed3c0e2-4f27-405e-b5b0-eae1a7aa8a5b",
+        "zip": "20646",
+        "city": "La Plata",
+        "county": "Charles County"
+    },
+    {
+        "id": "4d711ebf-e0cc-47db-a74e-a2ba74c5e1b0",
+        "zip": "20650",
+        "city": "Leonardtown",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "a8d9eaa6-0af6-4dc7-9def-a50d1e8add97",
+        "zip": "20653",
+        "city": "Lexington Park",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "a6d726fc-2913-4652-a734-7862ed62e6c9",
+        "zip": "20656",
+        "city": "Loveville",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "b0fd52bd-7c71-4308-9f4e-460b7100e271",
+        "zip": "20657",
+        "city": "Lusby",
+        "county": "Calvert County"
+    },
+    {
+        "id": "5950e620-f777-4da0-b71f-e4799fa087eb",
+        "zip": "20658",
+        "city": "Marbury",
+        "county": "Charles County"
+    },
+    {
+        "id": "4c1b6dcc-0b52-4412-947a-2ea9417350df",
+        "zip": "20659",
+        "city": "Mechanicsville",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "f97a77c2-0d63-4b58-a208-f4468eaf0e66",
+        "zip": "20660",
+        "city": "Morganza",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "f733ea50-f766-4b8e-a92a-4a0d068cf69a",
+        "zip": "20661",
+        "city": "Mount Victoria",
+        "county": "Charles County"
+    },
+    {
+        "id": "ee62d9e7-8908-4f34-b668-b3ff21fb8d7d",
+        "zip": "20662",
+        "city": "Nanjemoy",
+        "county": "Charles County"
+    },
+    {
+        "id": "c04fd266-9407-4183-9df2-8a7679ae7f21",
+        "zip": "20664",
+        "city": "Newburg",
+        "county": "Charles County"
+    },
+    {
+        "id": "e539f3d3-1b01-422f-830a-9650cc1ab58e",
+        "zip": "20667",
+        "city": "Park Hall",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "71233704-1aea-441c-9ad5-4ee2e541e2dd",
+        "zip": "20670",
+        "city": "Patuxent River",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "da973f43-5041-468d-9264-740abc4f7fa1",
+        "zip": "20674",
+        "city": "Piney Point",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "55cbf1cf-bc68-4338-9ca3-8d811fb7e2b8",
+        "zip": "20675",
+        "city": "Pomfret",
+        "county": "Charles County"
+    },
+    {
+        "id": "0334e558-2e5a-4dd0-a81a-d53e467baaf9",
+        "zip": "20676",
+        "city": "Port Republic",
+        "county": "Calvert County"
+    },
+    {
+        "id": "21dcefa4-96e4-4ed4-ac3f-0bce7dae1f25",
+        "zip": "20677",
+        "city": "Port Tobacco",
+        "county": "Charles County"
+    },
+    {
+        "id": "20ef8aa1-cc64-48cf-961a-56e625315bae",
+        "zip": "20678",
+        "city": "Prince Frederick",
+        "county": "Calvert County"
+    },
+    {
+        "id": "9cc3ebc2-4b5d-44e7-a8f4-c587c3815178",
+        "zip": "20680",
+        "city": "Ridge",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "3f71696e-9eab-42ab-b953-040b08a17597",
+        "zip": "20682",
+        "city": "Rock Point",
+        "county": "Charles County"
+    },
+    {
+        "id": "0b24c892-5838-4134-899d-f090214a8c90",
+        "zip": "20684",
+        "city": "Saint Inigoes",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "468c0f70-4465-400f-886d-bfcf1a41e60b",
+        "zip": "20685",
+        "city": "Saint Leonard",
+        "county": "Calvert County"
+    },
+    {
+        "id": "67119b7b-ebdb-4a51-a444-6f6a478b3e30",
+        "zip": "20686",
+        "city": "Saint Marys City",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "ec2a3890-f546-4358-971f-0d20b5a94cc6",
+        "zip": "20687",
+        "city": "Scotland",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "fb48a8b6-0188-42c6-8a0d-ea6010adf59b",
+        "zip": "20688",
+        "city": "Solomons",
+        "county": "Calvert County"
+    },
+    {
+        "id": "dc2dd543-1ce2-46c0-aaf5-e1399cd7c326",
+        "zip": "20689",
+        "city": "Sunderland",
+        "county": "Calvert County"
+    },
+    {
+        "id": "2b575fe6-2ef1-4f5a-bf31-cf053858c31c",
+        "zip": "20690",
+        "city": "Tall Timbers",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "7559beb3-0e7a-41a9-9126-15da6151a5c4",
+        "zip": "20692",
+        "city": "Valley Lee",
+        "county": "Saint Mary's County"
+    },
+    {
+        "id": "5993f8e3-865b-4606-8679-f1571d1ace75",
+        "zip": "20693",
+        "city": "Welcome",
+        "county": "Charles County"
+    },
+    {
+        "id": "f888dd8d-3288-42e7-af95-f866e9f4c15f",
+        "zip": "20695",
+        "city": "White Plains",
+        "county": "Charles County"
+    },
+    {
+        "id": "eb14038d-0c7f-4937-9bf3-b3d1dd4e8950",
+        "zip": "20697",
+        "city": "Southern Md Facility",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "9f973956-6efb-449e-a3db-9ba78d967ea4",
+        "zip": "20701",
+        "city": "Annapolis Junction",
+        "county": "Howard County"
+    },
+    {
+        "id": "82c8b5bc-a20b-43bc-a8ae-1d38a3dafcd5",
+        "zip": "20703",
+        "city": "Lanham",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "bb646bdf-37be-4804-b2a1-820211f2dd0b",
+        "zip": "20704",
+        "city": "Beltsville",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "4b7c2936-1333-4da8-9ab4-669552be4cb8",
+        "zip": "20705",
+        "city": "Beltsville",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "8c6e29ac-e540-4417-84fe-693fee50a31c",
+        "zip": "20706",
+        "city": "Lanham",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "1c2a633b-ba1d-4359-9d83-7f1d446ac3e9",
+        "zip": "20707",
+        "city": "Laurel",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "64b5c7d9-4729-41ff-9b66-4f97d53cda80",
+        "zip": "20708",
+        "city": "Laurel",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "227e7ba0-c778-450c-a2e3-f4d4825e9ed9",
+        "zip": "20709",
+        "city": "Laurel",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "a1467510-98b1-4665-a5a7-92d754a527df",
+        "zip": "20710",
+        "city": "Bladensburg",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "c9b6aa05-92a7-4b65-a34f-8b447324d3e7",
+        "zip": "20711",
+        "city": "Lothian",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "861153ab-69ab-4d17-95f5-d5d4149bed7c",
+        "zip": "20712",
+        "city": "Mount Rainier",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "a632d99e-d1b0-44a6-8ce7-a131f368ba76",
+        "zip": "20714",
+        "city": "North Beach",
+        "county": "Calvert County"
+    },
+    {
+        "id": "0d624da9-ca89-4ed6-ace6-0882ac004ee2",
+        "zip": "20715",
+        "city": "Bowie",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "d0ad44ab-50fd-4225-a113-4e04de68e77f",
+        "zip": "20716",
+        "city": "Bowie",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "a1f9b940-49df-4e9c-8dbb-0a9fb66d1f72",
+        "zip": "20717",
+        "city": "Bowie",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "9005c798-a79a-415f-a1e2-3b1ddde19229",
+        "zip": "20718",
+        "city": "Bowie",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "cf27b1fd-5bac-4a29-b421-c7c6b1620428",
+        "zip": "20719",
+        "city": "Bowie",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "1373179f-b154-41d5-9fba-519c62c2bbe9",
+        "zip": "20720",
+        "city": "Bowie",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "75624f2a-0925-41cb-aa0a-ffc537fed701",
+        "zip": "20721",
+        "city": "Bowie",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "6314edad-fa05-413f-b13c-eac7c6aafb0d",
+        "zip": "20722",
+        "city": "Brentwood",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "3fb17936-76ce-4e2a-8e12-3b3f26caa576",
+        "zip": "20723",
+        "city": "Laurel",
+        "county": "Howard County"
+    },
+    {
+        "id": "9cca29a8-5987-4c72-9748-73160fd4cd1c",
+        "zip": "20724",
+        "city": "Laurel",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "dcdd0ad9-d520-46b6-bfa8-d5ded689d45b",
+        "zip": "20725",
+        "city": "Laurel",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "574da6ce-6be6-4340-abe0-181dbd7bf8b5",
+        "zip": "20726",
+        "city": "Laurel",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "93c5b3a6-a85d-4355-941c-141b291cacca",
+        "zip": "20731",
+        "city": "Capitol Heights",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "ef4df29d-20db-4e2f-8550-3aae8f269b8d",
+        "zip": "20732",
+        "city": "Chesapeake Beach",
+        "county": "Calvert County"
+    },
+    {
+        "id": "c7d2ffa0-e49a-4a63-8f0c-d40b20502108",
+        "zip": "20733",
+        "city": "Churchton",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "1b62cce6-ac3d-418f-8df0-5bfbd8ead917",
+        "zip": "20735",
+        "city": "Clinton",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "9fd7d7ee-ba53-4825-be2a-06437b21b1b1",
+        "zip": "20736",
+        "city": "Owings",
+        "county": "Calvert County"
+    },
+    {
+        "id": "ae1bd403-08f3-4d97-b4e5-f58c6b4ba89e",
+        "zip": "20737",
+        "city": "Riverdale",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "b995ea37-15cd-4e7b-955d-a696e9b1b58e",
+        "zip": "20738",
+        "city": "Riverdale",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "c8f7d6b1-1e74-4094-9dac-75dcd20861e2",
+        "zip": "20740",
+        "city": "College Park",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "7772ead9-0272-48fc-9f4f-a10a4e01200b",
+        "zip": "20741",
+        "city": "College Park",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "a5336015-ab11-4d4b-a2df-bf983f828350",
+        "zip": "20742",
+        "city": "College Park",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "96fd175d-1e2c-481f-993e-1c599872b5ea",
+        "zip": "20743",
+        "city": "Capitol Heights",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "95031701-d7c6-4143-bb85-338e47bb9479",
+        "zip": "20744",
+        "city": "Fort Washington",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "9f6496c1-980a-4c00-b270-a3a67126f608",
+        "zip": "20745",
+        "city": "Oxon Hill",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "f6e07d33-b054-447f-8f84-a77acdeb391c",
+        "zip": "20746",
+        "city": "Suitland",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "e30bd154-e17c-4707-9294-e7b1e3fdf8bf",
+        "zip": "20747",
+        "city": "District Heights",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "b9d00925-4422-4e3e-ae9f-a9f548174a22",
+        "zip": "20748",
+        "city": "Temple Hills",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "52b971d2-c736-425a-913b-0f5694fe1f54",
+        "zip": "20749",
+        "city": "Fort Washington",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "4997bb53-add7-450a-b949-26f2d951b817",
+        "zip": "20750",
+        "city": "Oxon Hill",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "7767fd30-305c-4ebf-8f2c-99ba52c4aae3",
+        "zip": "20751",
+        "city": "Deale",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "f5fa41d8-7932-4758-ae6a-c8925dcd1b6d",
+        "zip": "20752",
+        "city": "Suitland",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "d8dffa41-cc9d-453b-83ab-4154318ff17a",
+        "zip": "20753",
+        "city": "District Heights",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "21b561e5-3943-4170-9de9-9ac841731c56",
+        "zip": "20754",
+        "city": "Dunkirk",
+        "county": "Calvert County"
+    },
+    {
+        "id": "2247d09c-274c-49d1-84ba-d806dbe37475",
+        "zip": "20755",
+        "city": "Fort George G Meade",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "a4248761-fddd-48cf-a524-d20bfd14dc95",
+        "zip": "20757",
+        "city": "Temple Hills",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "34bdcbc3-1cf4-4671-88e8-3a121c3bc988",
+        "zip": "20758",
+        "city": "Friendship",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "0659c96f-500d-45f9-85a6-5ce13726ea48",
+        "zip": "20759",
+        "city": "Fulton",
+        "county": "Howard County"
+    },
+    {
+        "id": "b4f2e031-990c-4636-ae71-3b0175f656c5",
+        "zip": "20762",
+        "city": "Andrews Air Force Base",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "bdf3fe2d-34e1-4813-99bf-0b5dfdc9a53f",
+        "zip": "20763",
+        "city": "Savage",
+        "county": "Howard County"
+    },
+    {
+        "id": "a2d45df7-09fb-4989-89da-f3bfb65f3ec6",
+        "zip": "20764",
+        "city": "Shady Side",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "f11b29ec-a8f8-42fa-b6ac-d91d25b520d7",
+        "zip": "20765",
+        "city": "Galesville",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "20cbb89c-52e6-4a8e-84fd-2fd31eff28b4",
+        "zip": "20768",
+        "city": "Greenbelt",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "eed71452-9010-41f0-9a3b-fc531c9ea360",
+        "zip": "20769",
+        "city": "Glenn Dale",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "c830a531-9740-4573-81d6-948e61443faf",
+        "zip": "20770",
+        "city": "Greenbelt",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "41bab42e-845b-47ca-a0c2-f2c3a20d732a",
+        "zip": "20771",
+        "city": "Greenbelt",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "b7d9296b-c327-48d1-8836-e93a97ae9d0f",
+        "zip": "20772",
+        "city": "Upper Marlboro",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "5b7350cf-0b5b-40c6-94ec-2784a01e171c",
+        "zip": "20773",
+        "city": "Upper Marlboro",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "9a2611f6-0373-4d72-81bf-019735ce8762",
+        "zip": "20774",
+        "city": "Upper Marlboro",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "793e6451-3958-4205-894d-eb97576ad9c0",
+        "zip": "20775",
+        "city": "Upper Marlboro",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "850cbdaa-7588-45c7-9226-1d94855848f1",
+        "zip": "20776",
+        "city": "Harwood",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "aa25dbda-30af-40ee-8bf8-29488ae8c28e",
+        "zip": "20777",
+        "city": "Highland",
+        "county": "Howard County"
+    },
+    {
+        "id": "21e3651a-3332-4169-9349-71fe18ecef94",
+        "zip": "20778",
+        "city": "West River",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "d76f1bd7-2f4b-40bb-a502-93da57bd378b",
+        "zip": "20779",
+        "city": "Tracys Landing",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "ac1e1041-52b3-4ce1-9ab2-bce6ed077786",
+        "zip": "20781",
+        "city": "Hyattsville",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "c8e6d4a5-e581-4e11-8e8f-bd0cdbcb4fcd",
+        "zip": "20782",
+        "city": "Hyattsville",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "c245b4ce-29a2-4401-b221-13811540b25e",
+        "zip": "20783",
+        "city": "Hyattsville",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "b375a48d-ce63-4a6a-99c8-4077db9f9fbd",
+        "zip": "20784",
+        "city": "Hyattsville",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "47145efc-08ab-472c-9fb1-0fa6b9b701c1",
+        "zip": "20785",
+        "city": "Hyattsville",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "206ada8b-a796-4d72-b307-6339dbde57cf",
+        "zip": "20787",
+        "city": "Hyattsville",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "3e15e0ae-22a7-4529-aa52-3c05081d8f17",
+        "zip": "20788",
+        "city": "Hyattsville",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "8128e484-1a09-463a-ae47-7b4a73011c10",
+        "zip": "20790",
+        "city": "Capitol Heights",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "5907bee4-44d0-4f54-add9-5a84833ad652",
+        "zip": "20791",
+        "city": "Capitol Heights",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "e0b6b3e7-80d4-44c3-be6f-2e5cbf267fb8",
+        "zip": "20792",
+        "city": "Upper Marlboro",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "2dffcd8e-6610-40bb-b1dc-52f072e59bb9",
+        "zip": "20794",
+        "city": "Jessup",
+        "county": "Howard County"
+    },
+    {
+        "id": "2aa503b7-73b4-486f-9dc3-27a884814417",
+        "zip": "20797",
+        "city": "Southern Md Facility",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "4c6195c8-11da-4c18-8de7-7dfa8df040d9",
+        "zip": "20799",
+        "city": "Capitol Heights",
+        "county": "Prince George's County"
+    },
+    {
+        "id": "a788257d-fb8f-42ff-9464-8eede549d468",
+        "zip": "20810",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "1fb9d971-0968-430c-b9dd-e80d2f50577e",
+        "zip": "20811",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "3988195e-f21f-4c0f-8ef0-8a18dcad8b37",
+        "zip": "20812",
+        "city": "Glen Echo",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "8e2afc4d-69db-499a-9704-a5726a61771d",
+        "zip": "20813",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "666ecb7c-68e9-4da7-8fc8-53778f25ad4c",
+        "zip": "20814",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "f4fa1953-5d4c-4973-9720-e83b7265662d",
+        "zip": "20815",
+        "city": "Chevy Chase",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "6bdee715-6e74-405b-a0d8-3606b2f1d0b8",
+        "zip": "20816",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "9b776e5e-a56b-4155-9c18-146efcc035df",
+        "zip": "20817",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "5675675e-4e5f-44ea-ae24-dd134a363868",
+        "zip": "20818",
+        "city": "Cabin John",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "05323f90-f741-4e6e-a52c-6da3e906cb70",
+        "zip": "20824",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "e3ae22b9-1951-4c83-9b42-7756f7f85bc9",
+        "zip": "20825",
+        "city": "Chevy Chase",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "f64f9774-bf3e-4d00-8c3e-fb01ad9ecb5e",
+        "zip": "20827",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "28bbf11d-6b1a-417a-8cdd-acad62a009ff",
+        "zip": "20830",
+        "city": "Olney",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "9708bb03-c8ee-4790-a2a9-da4f2fd575c3",
+        "zip": "20832",
+        "city": "Olney",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "c8bbe0cb-9b79-4184-b0cd-a14aea948cc3",
+        "zip": "20833",
+        "city": "Brookeville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "daa001b7-f05f-4bb9-a604-0e15332450d5",
+        "zip": "20837",
+        "city": "Poolesville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "6b2288c2-76b0-41f0-baf8-e5c5a038b590",
+        "zip": "20838",
+        "city": "Barnesville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "396070fa-422f-4dee-b02f-1e588e9f3920",
+        "zip": "20839",
+        "city": "Beallsville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "495ef3b4-7619-4312-a76e-289c9b2b9071",
+        "zip": "20841",
+        "city": "Boyds",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "449ebb85-8ddf-46e3-ad6a-f224a7514118",
+        "zip": "20842",
+        "city": "Dickerson",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "d9ed747d-fab9-401e-bb67-eeda70918933",
+        "zip": "20847",
+        "city": "Rockville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "334785ec-6b48-4063-ab14-8a70c10ae2d9",
+        "zip": "20848",
+        "city": "Rockville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "af657321-72b0-49dc-bd8d-9e0b8bca389f",
+        "zip": "20849",
+        "city": "Rockville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "3ed16656-0d2a-4cab-968b-5320935e5619",
+        "zip": "20850",
+        "city": "Rockville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "857611ab-39fe-423d-97e8-bb9264569ef7",
+        "zip": "20851",
+        "city": "Rockville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "daf690bd-c43a-4fff-9124-dad8c44df70b",
+        "zip": "20852",
+        "city": "Rockville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "a2224465-0326-4eac-b81c-02d49fa6e482",
+        "zip": "20853",
+        "city": "Rockville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "ac321edf-373b-425f-bab4-fa7bf5e11257",
+        "zip": "20854",
+        "city": "Potomac",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "d03e89c9-5916-4cd0-afe5-0ddcef4ca626",
+        "zip": "20855",
+        "city": "Derwood",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "fef37a5a-f7cc-445a-8136-74661488db27",
+        "zip": "20857",
+        "city": "Rockville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "60fa6723-9762-4381-ad28-f40ea8e5124f",
+        "zip": "20859",
+        "city": "Potomac",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "7414f4a7-10bd-4010-a02b-431d479561a9",
+        "zip": "20860",
+        "city": "Sandy Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "6d2ed6bf-50a6-40df-b600-0ca4e9b961d4",
+        "zip": "20861",
+        "city": "Ashton",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "9eab61e6-7214-4d29-ba99-4690c0f4a6fe",
+        "zip": "20862",
+        "city": "Brinklow",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "f0ac0ab8-7715-4027-ac11-11fda16a5a44",
+        "zip": "20866",
+        "city": "Burtonsville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "f3b79494-cb05-4220-bce9-d252641e8e71",
+        "zip": "20868",
+        "city": "Spencerville",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "e1bcbafa-62e1-46e0-aa9a-a14ac9fc55b2",
+        "zip": "20871",
+        "city": "Clarksburg",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "f68bdaf8-e38e-472c-ba8e-828ed668e9a9",
+        "zip": "20872",
+        "city": "Damascus",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "99863f42-08b2-447a-9952-fe52f4be592a",
+        "zip": "20874",
+        "city": "Germantown",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "5761bb4b-f40f-443a-9fde-a27ef88a9f9e",
+        "zip": "20875",
+        "city": "Germantown",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "f27ec355-4f58-43df-95d9-b4451f6302e5",
+        "zip": "20876",
+        "city": "Germantown",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "16593a6b-6ec4-4d50-8cf8-dfa97a1b22c8",
+        "zip": "20877",
+        "city": "Gaithersburg",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "6d14fbd6-39ac-47b6-a673-43e1f8139bcf",
+        "zip": "20878",
+        "city": "Gaithersburg",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "693b7e07-2f70-41fc-99de-7f79540289b8",
+        "zip": "20879",
+        "city": "Gaithersburg",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "a4b09abe-0162-4e64-99c6-1200d7915101",
+        "zip": "20880",
+        "city": "Washington Grove",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "4e962913-198a-441b-8840-c61cb8e80793",
+        "zip": "20882",
+        "city": "Gaithersburg",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "98ddf2ef-96e7-46fe-9fb9-12511d2e3119",
+        "zip": "20883",
+        "city": "Gaithersburg",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "a8750bcb-9201-40b0-a846-c88cbf3b7863",
+        "zip": "20884",
+        "city": "Gaithersburg",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "cfaebf76-9ed9-4a29-89c1-aa4ebbf6805a",
+        "zip": "20885",
+        "city": "Gaithersburg",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "60d50857-fa72-4a3e-b761-a9a9b74ec75a",
+        "zip": "20886",
+        "city": "Montgomery Village",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "0e4da347-fdb0-4071-90f8-4979ec355a04",
+        "zip": "20889",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "29ae78d3-1ff4-4071-a827-fdc5ebaf49b5",
+        "zip": "20891",
+        "city": "Kensington",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "82f802b7-0af0-4ef5-9674-53f82f5c1e77",
+        "zip": "20892",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "7c00bfa2-6532-4216-88c5-1f1e7e4bd67b",
+        "zip": "20894",
+        "city": "Bethesda",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "557fed34-5022-483e-b1be-4f293668a6b5",
+        "zip": "20895",
+        "city": "Kensington",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "d8cb4102-4001-405f-8f6d-71d408f0db56",
+        "zip": "20896",
+        "city": "Garrett Park",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "973e125f-53e4-4410-afe2-edbdde9f74f5",
+        "zip": "20897",
+        "city": "Suburb Maryland Fac",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "ef1430ce-e316-4169-a37c-423b5d7e09a8",
+        "zip": "20898",
+        "city": "Gaithersburg",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "35bfeda7-8d5b-4d6f-a628-8da8da7e4af0",
+        "zip": "20899",
+        "city": "Gaithersburg",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "8b139437-5c90-47f3-86ba-624b4158968b",
+        "zip": "20901",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "608cce98-781b-40c5-be43-88b14ca39754",
+        "zip": "20902",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "ff6ffdcd-e139-4f03-9afa-4be4055f129c",
+        "zip": "20903",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "fe992785-43a5-424d-9b97-892311b178a6",
+        "zip": "20904",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "7f875c26-fd7a-4924-8de9-11619f96cb41",
+        "zip": "20905",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "d9fbbe75-0508-4cdc-beac-6997775593a2",
+        "zip": "20906",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "41f05d99-13ea-4a4c-bef1-d7f693f57192",
+        "zip": "20907",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "043147c6-476d-4f83-a5cf-6ad481f542a8",
+        "zip": "20908",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "d76a9013-e363-497a-8d1b-94b75d0afa64",
+        "zip": "20910",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "f8991c0b-7155-474f-998d-49e2776e488c",
+        "zip": "20911",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "3708f927-58df-43a9-abec-d443dc7281f3",
+        "zip": "20912",
+        "city": "Takoma Park",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "2dcc3f3c-d2d2-4941-bf58-0cb000f406e2",
+        "zip": "20913",
+        "city": "Takoma Park",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "f2396e73-4d07-43f4-ae68-588c6c93f4af",
+        "zip": "20914",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "64124c5a-04e1-4534-9ea3-6740af043c7a",
+        "zip": "20915",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "e1415240-cf1d-4d81-9c7d-cdd195646301",
+        "zip": "20916",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "e5da8090-4806-4502-ae7c-5f969f20120c",
+        "zip": "20918",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "610500bb-0972-4c31-ac44-9078a884903a",
+        "zip": "20993",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "2eef48c3-6bc2-405f-81a4-df2ad66b279e",
+        "zip": "20997",
+        "city": "Silver Spring",
+        "county": "Montgomery County"
+    },
+    {
+        "id": "b49ef5b5-c7ff-4ef9-b4b8-24dff3f0ffa4",
+        "zip": "21001",
+        "city": "Aberdeen",
+        "county": "Harford County"
+    },
+    {
+        "id": "9b8eecb5-499d-4697-a36c-890c9c9b3f32",
+        "zip": "21005",
+        "city": "Aberdeen Proving Ground",
+        "county": "Harford County"
+    },
+    {
+        "id": "9a96322a-5cfd-440c-9d1d-b3759b7f4b6b",
+        "zip": "21009",
+        "city": "Abingdon",
+        "county": "Harford County"
+    },
+    {
+        "id": "1f3f586e-05d2-4898-af23-2fcd4559fa01",
+        "zip": "21010",
+        "city": "Gunpowder",
+        "county": "Harford County"
+    },
+    {
+        "id": "3d3db884-3a8d-4ede-9cc5-76ec3c8df4bf",
+        "zip": "21012",
+        "city": "Arnold",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "8111072d-b0bd-4d41-ac46-dfc93b013a21",
+        "zip": "21013",
+        "city": "Baldwin",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "441da256-f89f-4ccc-a2ba-1c0981cd2470",
+        "zip": "21014",
+        "city": "Bel Air",
+        "county": "Harford County"
+    },
+    {
+        "id": "32c7d62f-fee9-4bb2-96ea-c2a3bf71d470",
+        "zip": "21015",
+        "city": "Bel Air",
+        "county": "Harford County"
+    },
+    {
+        "id": "4dcf146a-316d-41c1-8ba5-c5393d1a17fe",
+        "zip": "21017",
+        "city": "Belcamp",
+        "county": "Harford County"
+    },
+    {
+        "id": "a9c7afbd-cc91-4ede-a3a1-2dbc87d21157",
+        "zip": "21018",
+        "city": "Benson",
+        "county": "Harford County"
+    },
+    {
+        "id": "b2835438-ce81-4c75-b3b1-1b4e2f790fdf",
+        "zip": "21020",
+        "city": "Boring",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "da94ed52-db36-43ec-90af-751e18edf1d8",
+        "zip": "21022",
+        "city": "Brooklandville",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "1e6d301c-f934-4a4e-b500-cd81da08469f",
+        "zip": "21023",
+        "city": "Butler",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "2bbcf0c1-c343-451e-967a-e196f2d69d40",
+        "zip": "21027",
+        "city": "Chase",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "64ad266a-7922-4396-9127-2b212ab3ce31",
+        "zip": "21028",
+        "city": "Churchville",
+        "county": "Harford County"
+    },
+    {
+        "id": "8ccf3dd4-37d9-4b3e-ba51-6cc5ddf321ac",
+        "zip": "21029",
+        "city": "Clarksville",
+        "county": "Howard County"
+    },
+    {
+        "id": "36443732-7ad8-4f21-b890-a2cacf124031",
+        "zip": "21030",
+        "city": "Cockeysville",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "be689180-3828-4501-816e-d89ca99268fb",
+        "zip": "21031",
+        "city": "Hunt Valley",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "e2fd0a30-26de-4950-afab-2fc2a1b68394",
+        "zip": "21032",
+        "city": "Crownsville",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "d39393bd-c7e6-4f36-a160-1c021c03b55c",
+        "zip": "21034",
+        "city": "Darlington",
+        "county": "Harford County"
+    },
+    {
+        "id": "91984dd2-fd03-469b-adf6-39b84172038a",
+        "zip": "21035",
+        "city": "Davidsonville",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "1d186e9d-071c-482f-973d-38a72b066b01",
+        "zip": "21036",
+        "city": "Dayton",
+        "county": "Howard County"
+    },
+    {
+        "id": "74194cd0-48db-4d8b-8159-4ec25c491b6f",
+        "zip": "21037",
+        "city": "Edgewater",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "18c25bd7-aad1-48ab-8f2a-50fc70f86787",
+        "zip": "21040",
+        "city": "Edgewood",
+        "county": "Harford County"
+    },
+    {
+        "id": "6fdd0074-b69b-4f23-93ba-ef5bb0891be6",
+        "zip": "21041",
+        "city": "Ellicott City",
+        "county": "Howard County"
+    },
+    {
+        "id": "1f5f5788-c98b-49f9-935f-3362dbe827a5",
+        "zip": "21042",
+        "city": "Ellicott City",
+        "county": "Howard County"
+    },
+    {
+        "id": "cb6657e2-5681-43d4-b613-d4d7a5a38259",
+        "zip": "21043",
+        "city": "Ellicott City",
+        "county": "Howard County"
+    },
+    {
+        "id": "98fcca72-2ca9-4912-a03d-52f2461a74d2",
+        "zip": "21044",
+        "city": "Columbia",
+        "county": "Howard County"
+    },
+    {
+        "id": "29168954-fc32-4a87-a3bf-a48a00f7d2d7",
+        "zip": "21045",
+        "city": "Columbia",
+        "county": "Howard County"
+    },
+    {
+        "id": "a3735296-613f-4042-9d27-5ded8a06c3d5",
+        "zip": "21046",
+        "city": "Columbia",
+        "county": "Howard County"
+    },
+    {
+        "id": "91ab662d-e072-4f6b-9ade-7dba69fc8626",
+        "zip": "21047",
+        "city": "Fallston",
+        "county": "Harford County"
+    },
+    {
+        "id": "477ae91b-5643-4364-a31e-c45e81cfdb70",
+        "zip": "21048",
+        "city": "Finksburg",
+        "county": "Carroll County"
+    },
+    {
+        "id": "1689e7a0-d6c0-41ba-adf7-761b4ed19138",
+        "zip": "21050",
+        "city": "Forest Hill",
+        "county": "Harford County"
+    },
+    {
+        "id": "5ec15b67-ea49-4df3-ac41-ed8f4daea211",
+        "zip": "21051",
+        "city": "Fork",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "7577d446-e9d7-4bc1-9b82-fbe7b6f0b20f",
+        "zip": "21052",
+        "city": "Fort Howard",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "8380d5c7-5f11-4ad7-901a-009aef2a7f54",
+        "zip": "21053",
+        "city": "Freeland",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "9ab2edd7-4e2c-4997-bc5f-0d4712092aad",
+        "zip": "21054",
+        "city": "Gambrills",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "de719cb2-3efa-432c-b65f-256d004598d6",
+        "zip": "21056",
+        "city": "Gibson Island",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "4d175f26-18b2-4f42-b45e-636164ef09f7",
+        "zip": "21057",
+        "city": "Glen Arm",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "7a80e74c-241f-451e-9ee4-8a7095c72559",
+        "zip": "21060",
+        "city": "Glen Burnie",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "2f5a2056-1dc0-461d-8acf-2dd63a735363",
+        "zip": "21061",
+        "city": "Glen Burnie",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "ca6e7421-e6d5-43a7-9b26-06e12c9725e4",
+        "zip": "21062",
+        "city": "Glen Burnie",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "dd7c6184-0fcd-4cbf-824c-e878b3ffa437",
+        "zip": "21065",
+        "city": "Hunt Valley",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "5bea1507-b641-470d-9866-28aada0593b7",
+        "zip": "21071",
+        "city": "Glyndon",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "49ec4bb3-560b-4f1d-a182-09ef260bd024",
+        "zip": "21074",
+        "city": "Hampstead",
+        "county": "Carroll County"
+    },
+    {
+        "id": "7a73116e-d8d1-4e09-8f35-3ff0ba9142b2",
+        "zip": "21075",
+        "city": "Elkridge",
+        "county": "Howard County"
+    },
+    {
+        "id": "f4a2b28d-4366-4c38-a8ff-6138f4712672",
+        "zip": "21076",
+        "city": "Hanover",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "69139a95-6eaf-4469-90c8-136b2eab618c",
+        "zip": "21077",
+        "city": "Harmans",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "36478015-e106-42ad-8c67-cb8f99ec66f2",
+        "zip": "21078",
+        "city": "Havre De Grace",
+        "county": "Harford County"
+    },
+    {
+        "id": "c9619bb5-fb6b-4ebe-aa74-d4d3a5fba1b5",
+        "zip": "21082",
+        "city": "Hydes",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "c44e8711-9329-4228-8499-e0bb81827706",
+        "zip": "21084",
+        "city": "Jarrettsville",
+        "county": "Harford County"
+    },
+    {
+        "id": "b431a613-20a8-45cd-8485-6fb8f9ab3c7a",
+        "zip": "21085",
+        "city": "Joppa",
+        "county": "Harford County"
+    },
+    {
+        "id": "f6bc7cde-2127-46ab-a2fe-e396adf38649",
+        "zip": "21087",
+        "city": "Kingsville",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "4fb3f26c-49c6-46c8-baf7-e29907a07853",
+        "zip": "21088",
+        "city": "Lineboro",
+        "county": "Carroll County"
+    },
+    {
+        "id": "83edbbaf-838f-4e66-b4b0-c8495d211b29",
+        "zip": "21090",
+        "city": "Linthicum Heights",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "ec987dc5-bfce-4d3f-97b9-6bbdd8c46b9d",
+        "zip": "21092",
+        "city": "Long Green",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "5520ea3e-c4e1-4060-9120-26340d72c091",
+        "zip": "21093",
+        "city": "Lutherville Timonium",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "1835d470-5212-4724-9cc6-3f217a433eb4",
+        "zip": "21094",
+        "city": "Lutherville Timonium",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "5c9f1a87-9c58-4fb1-b20a-371621047027",
+        "zip": "21098",
+        "city": "Hanover",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "4cf2bf4c-52c0-4b79-8d8a-2c7d7d32ed7d",
+        "zip": "21102",
+        "city": "Manchester",
+        "county": "Carroll County"
+    },
+    {
+        "id": "af5a612a-c4e7-4f31-b824-add5ddea1d2e",
+        "zip": "21104",
+        "city": "Marriottsville",
+        "county": "Carroll County"
+    },
+    {
+        "id": "e9aa06e4-eb1c-40b1-a740-b75a79a052b3",
+        "zip": "21105",
+        "city": "Maryland Line",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "f39f3614-29d9-4ef4-ad17-1d7ab79d93b0",
+        "zip": "21106",
+        "city": "Mayo",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "9f9f7382-8011-4d60-8722-f08045969eed",
+        "zip": "21108",
+        "city": "Millersville",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "5c92f9c5-ea82-4838-89f3-1d833d5b8bb5",
+        "zip": "21111",
+        "city": "Monkton",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "504ce480-c81e-4dc4-a28a-dfe49b179b4a",
+        "zip": "21113",
+        "city": "Odenton",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "54800026-2498-473c-b406-6d0b08118428",
+        "zip": "21114",
+        "city": "Crofton",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "5790251f-b0cc-4e6d-b717-8d14a857daf6",
+        "zip": "21117",
+        "city": "Owings Mills",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "621826b0-9ecc-494c-b2b1-a7be16908759",
+        "zip": "21120",
+        "city": "Parkton",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "e6ced1b1-22f4-40ae-b898-02c8475943e6",
+        "zip": "21122",
+        "city": "Pasadena",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "826069f5-0706-48d7-9852-04e33827f8f6",
+        "zip": "21123",
+        "city": "Pasadena",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "ec38c9eb-7c92-41d1-9018-4cac1bbc0232",
+        "zip": "21128",
+        "city": "Perry Hall",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "875b47ba-e01f-4a66-8db4-93938daae667",
+        "zip": "21130",
+        "city": "Perryman",
+        "county": "Harford County"
+    },
+    {
+        "id": "d03f4ad0-9fc5-425c-a487-7ecc93bf8dbe",
+        "zip": "21131",
+        "city": "Phoenix",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "5c6f9050-2454-45f8-b6ba-f5d83aecaf95",
+        "zip": "21132",
+        "city": "Pylesville",
+        "county": "Harford County"
+    },
+    {
+        "id": "2a676278-4bbd-4582-818c-4bc96ee31a4c",
+        "zip": "21133",
+        "city": "Randallstown",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "097f24d8-ab12-44e3-9677-8c082369ef3e",
+        "zip": "21136",
+        "city": "Reisterstown",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "8dce09fb-ee62-4512-b4da-8140b6cbb10d",
+        "zip": "21139",
+        "city": "Riderwood",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "40efbdd5-e462-4172-8362-0cd187f71d23",
+        "zip": "21140",
+        "city": "Riva",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "aa35684e-1a1f-4d56-b6ac-970f2e4836d7",
+        "zip": "21144",
+        "city": "Severn",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "04121472-1ed6-4fb3-9239-426c4455d4c3",
+        "zip": "21146",
+        "city": "Severna Park",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "d8dadbd8-2137-45cd-a9e9-f5bce9fa2e69",
+        "zip": "21150",
+        "city": "Simpsonville",
+        "county": "Howard County"
+    },
+    {
+        "id": "75a1e18f-ec4a-4c7f-bef0-2bc677484b68",
+        "zip": "21152",
+        "city": "Sparks Glencoe",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "584cdd49-5b04-4c8e-b504-2350f556d66c",
+        "zip": "21153",
+        "city": "Stevenson",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "dc2ab270-2ea3-405b-8468-1a19c67e7e03",
+        "zip": "21154",
+        "city": "Street",
+        "county": "Harford County"
+    },
+    {
+        "id": "0a73aeef-a364-4df8-a512-cf11cff1be71",
+        "zip": "21155",
+        "city": "Upperco",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "326390d1-ae48-448a-939c-543e065c714d",
+        "zip": "21156",
+        "city": "Upper Falls",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "a209a349-65bb-4c1f-b3a2-22c421ea425b",
+        "zip": "21157",
+        "city": "Westminster",
+        "county": "Carroll County"
+    },
+    {
+        "id": "fbf45694-a1d7-47b9-afea-9794ecdb7dea",
+        "zip": "21158",
+        "city": "Westminster",
+        "county": "Carroll County"
+    },
+    {
+        "id": "f579870e-28be-4230-b50b-27d6eb417683",
+        "zip": "21160",
+        "city": "Whiteford",
+        "county": "Harford County"
+    },
+    {
+        "id": "15dfbedb-4174-420f-afba-becaf53cda66",
+        "zip": "21161",
+        "city": "White Hall",
+        "county": "Harford County"
+    },
+    {
+        "id": "425f1cd5-2ba8-4659-8267-6b2d07f60c21",
+        "zip": "21162",
+        "city": "White Marsh",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "e472d35f-8267-4e14-9ca4-0b684d222fe0",
+        "zip": "21163",
+        "city": "Woodstock",
+        "county": "Howard County"
+    },
+    {
+        "id": "d5ad49c8-cb04-4022-8caf-d3d295660b8e",
+        "zip": "21201",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "cfd2b29f-e35e-477a-8a66-434107c36fc1",
+        "zip": "21202",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "b54043aa-5525-4878-9b4b-a07c97458959",
+        "zip": "21203",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "826c47b4-b079-423e-81d0-3028ea6dd1fd",
+        "zip": "21204",
+        "city": "Towson",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "e148dcbb-2339-4628-a00d-b59a05b83eb3",
+        "zip": "21205",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "2bb3be2f-d983-479c-8325-0335b8dcf038",
+        "zip": "21206",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "9a31313d-130b-4d6f-a1d1-dfd00d292139",
+        "zip": "21207",
+        "city": "Gwynn Oak",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "24da3a93-1901-4862-8a74-0fa523fa118c",
+        "zip": "21208",
+        "city": "Pikesville",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "1d666b32-bf20-4098-8c92-091101b138f8",
+        "zip": "21209",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "6d3fe39f-6c22-42b9-91fd-8c3a66a5ef0f",
+        "zip": "21210",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "4079b541-3aa7-4193-bd57-2a01c84d650b",
+        "zip": "21211",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "7b4092d8-e7fd-4759-b00f-eb422b81ee81",
+        "zip": "21212",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "0a374b80-4d42-4ad6-902d-651061f01fdf",
+        "zip": "21213",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "ab160908-309f-406a-ae73-2bddf681883e",
+        "zip": "21214",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "07fe5e55-a1d9-47d3-b081-7afea55523a7",
+        "zip": "21215",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "1352dfcf-79d4-4e81-8194-17a94d3cebee",
+        "zip": "21216",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "78657ff0-b15b-429e-9ba9-dfed3826fa14",
+        "zip": "21217",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "9cd49f77-4352-4a44-93cc-c09c5706964f",
+        "zip": "21218",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "7e120f67-1f19-4d60-9c19-ad89c5673967",
+        "zip": "21219",
+        "city": "Sparrows Point",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "ba9787f6-000e-4fe5-b4ef-ea33d959033f",
+        "zip": "21220",
+        "city": "Middle River",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "63e87ed8-1391-4b6f-9f41-422bebc108fc",
+        "zip": "21221",
+        "city": "Essex",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "ba459925-a2ec-4d6b-acd6-0e8c1d0b1175",
+        "zip": "21222",
+        "city": "Dundalk",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "87128708-28e4-4bd0-9991-260e38f5f253",
+        "zip": "21223",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "7685a725-9f20-40e2-a934-292121ea257e",
+        "zip": "21224",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "c5e96004-baf4-42d5-aca3-76aabb12c32b",
+        "zip": "21225",
+        "city": "Brooklyn",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "0ecd432a-dec2-4371-b3b2-58cb23916236",
+        "zip": "21226",
+        "city": "Curtis Bay",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "6d3c6d61-3398-45d9-93d8-64dcb74d3bce",
+        "zip": "21227",
+        "city": "Halethorpe",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "b63377c6-e8d4-42e3-bcbf-406f6f5c1b17",
+        "zip": "21228",
+        "city": "Catonsville",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "62acae23-d00c-4cad-b3bf-9287af3e2534",
+        "zip": "21229",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "d2b3b579-1d88-4eaf-bffa-7992b9da7593",
+        "zip": "21230",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "a2a8b338-396b-4757-85d5-d6f09fa5d9bf",
+        "zip": "21231",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "9e525c0b-9679-4f7d-bcd1-05e8f801f8ba",
+        "zip": "21233",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "8e2e2724-6a5f-4c0d-8964-6342944e19fe",
+        "zip": "21234",
+        "city": "Parkville",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "3175b6fb-f113-4b8d-bd75-fbf4500729d2",
+        "zip": "21235",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "49b5245c-7042-4beb-89b9-5462179d30ef",
+        "zip": "21236",
+        "city": "Nottingham",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "9d8e26ce-673c-4389-96bc-5b504d2b206a",
+        "zip": "21237",
+        "city": "Rosedale",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "9fe712c1-9f6f-40e1-9d7c-75b61b05d5b5",
+        "zip": "21239",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "1a75d879-cde6-4207-b3a3-e56f830e2708",
+        "zip": "21240",
+        "city": "Baltimore",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "2151c035-aca3-44e2-9f17-f39c8aff432d",
+        "zip": "21241",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "a6a97d87-18e4-4033-8d2b-17cca54ac336",
+        "zip": "21244",
+        "city": "Windsor Mill",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "7ab11a4b-d180-4d1a-912c-242a06775059",
+        "zip": "21250",
+        "city": "Baltimore",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "64acf17b-d29e-4075-8b00-3c03f101f403",
+        "zip": "21251",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "b289dd97-e30f-43e4-9f04-c8702f77f429",
+        "zip": "21252",
+        "city": "Baltimore",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "d16dd834-0799-4f5d-8dc3-e49a347918e6",
+        "zip": "21263",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "499fac04-4ced-40b3-b93a-910f1ae9e990",
+        "zip": "21264",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "a1733cdd-055f-4b4a-a1ff-bb0d6d4d3eff",
+        "zip": "21265",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "2d4eeab7-9b25-4765-85b7-34234a622aed",
+        "zip": "21268",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "a4b0113c-3198-4fca-98c4-7a9bae0acdf0",
+        "zip": "21270",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "d1f4121d-1f49-4365-a69f-f510231633b3",
+        "zip": "21273",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "b3ad49e0-9f32-4ad0-ab5f-ec810fe80b55",
+        "zip": "21274",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "a9032f24-fd1c-471f-a1a6-8ffeaaea982e",
+        "zip": "21275",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "5cd96dc6-3450-4042-b765-8189dab7af44",
+        "zip": "21278",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "06f278e9-d94d-4980-a5e0-9090634e7830",
+        "zip": "21279",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "52a83117-ad33-4365-a2f9-bd23860898dd",
+        "zip": "21280",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "03647f28-da90-4e40-bed4-f0a64005d658",
+        "zip": "21281",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "f394055f-d345-4b31-85ab-e40985958d83",
+        "zip": "21282",
+        "city": "Baltimore",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "b6ca7417-2349-4693-b511-7838abddbe7c",
+        "zip": "21283",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "af35b312-6be8-4e7e-8034-13ecacfb86da",
+        "zip": "21284",
+        "city": "Baltimore",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "4af94394-76bb-42d6-9201-ce5a3a8f395e",
+        "zip": "21285",
+        "city": "Baltimore",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "f2749555-525c-47c7-b090-465cc3ce0c6f",
+        "zip": "21286",
+        "city": "Towson",
+        "county": "Baltimore County"
+    },
+    {
+        "id": "22b5a8c0-4ad1-4ecf-ac3e-f98e44b37e88",
+        "zip": "21287",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "b4ce2433-9ff5-4940-9e75-d4af100d2507",
+        "zip": "21288",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "7b92ddda-87f1-4253-a9e5-2129adea210d",
+        "zip": "21289",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "c7f07b76-a7a1-47fa-a133-f2c33022bcfc",
+        "zip": "21290",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "7340dd7a-a95a-4b19-b0c9-466775c20d25",
+        "zip": "21297",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "3121aaa3-8e5b-4bd6-9200-4204f619be3d",
+        "zip": "21298",
+        "city": "Baltimore",
+        "county": "Baltimore City"
+    },
+    {
+        "id": "bd447a22-e54b-412d-b9e4-f9d202f8a61f",
+        "zip": "21401",
+        "city": "Annapolis",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "19ebeb12-d1f8-43d5-bd3d-e34c58911798",
+        "zip": "21402",
+        "city": "Annapolis",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "8997167a-7f4e-46b5-9432-c509dd1f8092",
+        "zip": "21403",
+        "city": "Annapolis",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "11ef8d36-4288-4a16-89be-f5f17b3184ca",
+        "zip": "21404",
+        "city": "Annapolis",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "0db4a737-4437-4f96-b113-ad680404bd4d",
+        "zip": "21405",
+        "city": "Annapolis",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "21f10050-dee3-4458-a10b-4695837ca313",
+        "zip": "21409",
+        "city": "Annapolis",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "feda97c0-7369-40b6-8ab4-ffad30ae7835",
+        "zip": "21411",
+        "city": "Annapolis",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "2f4e3b1d-2b44-43d8-a100-27f582cdb58f",
+        "zip": "21412",
+        "city": "Annapolis",
+        "county": "Anne Arundel County"
+    },
+    {
+        "id": "2fa582fe-5e34-4a9e-bbf3-e837c0a11669",
+        "zip": "21501",
+        "city": "Cumberland",
+        "county": "Allegany County"
+    },
+    {
+        "id": "e2952636-102c-4022-9a5a-dc11d8731d52",
+        "zip": "21502",
+        "city": "Cumberland",
+        "county": "Allegany County"
+    },
+    {
+        "id": "6c58578f-fded-4211-8807-b5980118b49b",
+        "zip": "21503",
+        "city": "Cumberland",
+        "county": "Allegany County"
+    },
+    {
+        "id": "c4870def-91f3-424d-b00d-fe48e30c31f4",
+        "zip": "21504",
+        "city": "Cumberland",
+        "county": "Allegany County"
+    },
+    {
+        "id": "ba3f3b75-a6f9-4049-9ae2-532c17d28301",
+        "zip": "21505",
+        "city": "Cumberland",
+        "county": "Allegany County"
+    },
+    {
+        "id": "562d0304-557c-4a35-8887-39f43287391f",
+        "zip": "21520",
+        "city": "Accident",
+        "county": "Garrett County"
+    },
+    {
+        "id": "55e05b0f-7b2b-438c-a5bc-49b6aad204a9",
+        "zip": "21521",
+        "city": "Barton",
+        "county": "Allegany County"
+    },
+    {
+        "id": "ec811a6c-9d2f-498a-8567-ec57b35b6c19",
+        "zip": "21522",
+        "city": "Bittinger",
+        "county": "Garrett County"
+    },
+    {
+        "id": "62698c4b-0065-43f5-9223-17366e31a6b4",
+        "zip": "21523",
+        "city": "Bloomington",
+        "county": "Garrett County"
+    },
+    {
+        "id": "ca81d533-33fc-4996-880f-f053cd9804e9",
+        "zip": "21524",
+        "city": "Corriganville",
+        "county": "Allegany County"
+    },
+    {
+        "id": "fa5f2ef0-c2c7-4576-9c99-70cb9ae3ca44",
+        "zip": "21528",
+        "city": "Eckhart Mines",
+        "county": "Allegany County"
+    },
+    {
+        "id": "2f5afc03-0952-401d-bd41-207aa85883b8",
+        "zip": "21529",
+        "city": "Ellerslie",
+        "county": "Allegany County"
+    },
+    {
+        "id": "035558f5-acca-4c21-a203-ab9223f363bc",
+        "zip": "21530",
+        "city": "Flintstone",
+        "county": "Allegany County"
+    },
+    {
+        "id": "034fc79c-d475-4f3e-9477-cf871c18df9e",
+        "zip": "21531",
+        "city": "Friendsville",
+        "county": "Garrett County"
+    },
+    {
+        "id": "83b123fd-b59d-4df8-ab53-4ed84d501703",
+        "zip": "21532",
+        "city": "Frostburg",
+        "county": "Allegany County"
+    },
+    {
+        "id": "9a489f4c-1354-41e7-ab3b-5f6ff96ff4d8",
+        "zip": "21536",
+        "city": "Grantsville",
+        "county": "Garrett County"
+    },
+    {
+        "id": "5916c1ea-ee1a-4151-bb8e-7221c167caf3",
+        "zip": "21538",
+        "city": "Kitzmiller",
+        "county": "Garrett County"
+    },
+    {
+        "id": "95edc414-3708-45e3-b472-93b896ce5a30",
+        "zip": "21539",
+        "city": "Lonaconing",
+        "county": "Allegany County"
+    },
+    {
+        "id": "93529ce8-dafc-460e-9214-2f1470fe14d5",
+        "zip": "21540",
+        "city": "Luke",
+        "county": "Allegany County"
+    },
+    {
+        "id": "e070f4e6-9292-41e2-8508-a8dd0f1a99af",
+        "zip": "21541",
+        "city": "Mc Henry",
+        "county": "Garrett County"
+    },
+    {
+        "id": "0c4a2c44-6bcd-4d9d-88b8-28615df936a7",
+        "zip": "21542",
+        "city": "Midland",
+        "county": "Allegany County"
+    },
+    {
+        "id": "726fc673-bc08-4669-9782-eaab3d5e95d0",
+        "zip": "21543",
+        "city": "Midlothian",
+        "county": "Allegany County"
+    },
+    {
+        "id": "dba280e9-1a40-47e7-b7dd-5e83c03feafc",
+        "zip": "21545",
+        "city": "Mount Savage",
+        "county": "Allegany County"
+    },
+    {
+        "id": "c08c27bd-ec27-4eb5-b817-d27945145b7a",
+        "zip": "21550",
+        "city": "Oakland",
+        "county": "Garrett County"
+    },
+    {
+        "id": "a81fdae1-def2-4479-ae08-2b519ea23cc9",
+        "zip": "21555",
+        "city": "Oldtown",
+        "county": "Allegany County"
+    },
+    {
+        "id": "1a6821f2-811a-41db-9044-52ef8dab8ebd",
+        "zip": "21556",
+        "city": "Pinto",
+        "county": "Allegany County"
+    },
+    {
+        "id": "0555f3e4-c999-474f-b65d-2a887b8d9855",
+        "zip": "21557",
+        "city": "Rawlings",
+        "county": "Allegany County"
+    },
+    {
+        "id": "feb7ed4c-1612-43ff-ba61-798904844d4c",
+        "zip": "21560",
+        "city": "Spring Gap",
+        "county": "Allegany County"
+    },
+    {
+        "id": "028e1333-663b-44a4-8c18-92e74c618fb9",
+        "zip": "21561",
+        "city": "Swanton",
+        "county": "Garrett County"
+    },
+    {
+        "id": "dadf816b-5742-4d31-844b-fe14d061f874",
+        "zip": "21562",
+        "city": "Westernport",
+        "county": "Allegany County"
+    },
+    {
+        "id": "29cce30f-801e-48f0-9d57-ccccec20ee77",
+        "zip": "21601",
+        "city": "Easton",
+        "county": "Talbot County"
+    },
+    {
+        "id": "7540d3b5-af28-4a28-a0bc-160340831053",
+        "zip": "21606",
+        "city": "Easton",
+        "county": "Talbot County"
+    },
+    {
+        "id": "42829c71-034d-43dc-b555-d0a67bfc268d",
+        "zip": "21607",
+        "city": "Barclay",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "c3c63067-d053-4e93-b95f-9685f793be15",
+        "zip": "21609",
+        "city": "Bethlehem",
+        "county": "Caroline County"
+    },
+    {
+        "id": "8b4328a4-054c-45ba-9835-255293e5b90c",
+        "zip": "21610",
+        "city": "Betterton",
+        "county": "Kent County"
+    },
+    {
+        "id": "639f7145-9b28-4c4f-9df1-d0b56d3d2f52",
+        "zip": "21612",
+        "city": "Bozman",
+        "county": "Talbot County"
+    },
+    {
+        "id": "7211d498-256d-48ee-bafa-cdffddc9e80a",
+        "zip": "21613",
+        "city": "Cambridge",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "de364915-e50c-4642-bec9-fb042957dde1",
+        "zip": "21617",
+        "city": "Centreville",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "f8ff1e22-aa52-499d-913a-bbf39c4be846",
+        "zip": "21619",
+        "city": "Chester",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "f026e3ac-2e35-42f4-b6da-db42c384d44e",
+        "zip": "21620",
+        "city": "Chestertown",
+        "county": "Kent County"
+    },
+    {
+        "id": "c673d727-8876-4a32-a898-3e541a69f692",
+        "zip": "21622",
+        "city": "Church Creek",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "35f635be-be38-431e-9d8e-84095ba1160d",
+        "zip": "21623",
+        "city": "Church Hill",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "db1e6125-75db-4a36-83b9-383472ffabef",
+        "zip": "21624",
+        "city": "Claiborne",
+        "county": "Talbot County"
+    },
+    {
+        "id": "972f2ba0-c05b-4ce7-ad0e-cdf7b528aaa6",
+        "zip": "21625",
+        "city": "Cordova",
+        "county": "Talbot County"
+    },
+    {
+        "id": "5b46d368-06e9-496f-b87a-cf4d0bc06586",
+        "zip": "21626",
+        "city": "Crapo",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "b193fcf9-fa76-4b8c-94c0-bf83222242d4",
+        "zip": "21627",
+        "city": "Crocheron",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "bbfd17f6-2a0d-4b1c-8e7c-c0ebf8be7b25",
+        "zip": "21628",
+        "city": "Crumpton",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "4e804146-4c33-48e7-b2d4-71e8bfb6db6c",
+        "zip": "21629",
+        "city": "Denton",
+        "county": "Caroline County"
+    },
+    {
+        "id": "499742b4-8f29-432c-bed9-32b9d221ac30",
+        "zip": "21631",
+        "city": "East New Market",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "dd68240a-773e-4f78-ada8-b21494b5b82f",
+        "zip": "21632",
+        "city": "Federalsburg",
+        "county": "Caroline County"
+    },
+    {
+        "id": "28e34b80-b3f7-43db-9a60-7f4276285326",
+        "zip": "21634",
+        "city": "Fishing Creek",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "6766ebf2-d71f-49ee-9483-47c80fddddc0",
+        "zip": "21635",
+        "city": "Galena",
+        "county": "Kent County"
+    },
+    {
+        "id": "a02883ac-77a0-4599-9e2d-c4305c031e2e",
+        "zip": "21636",
+        "city": "Goldsboro",
+        "county": "Caroline County"
+    },
+    {
+        "id": "a1c3ee4d-779e-459c-bcfd-4a2f49064799",
+        "zip": "21638",
+        "city": "Grasonville",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "ba32ff80-260f-4b54-9910-823142494348",
+        "zip": "21639",
+        "city": "Greensboro",
+        "county": "Caroline County"
+    },
+    {
+        "id": "29f37f01-a239-4f9c-aa39-b53fb2529729",
+        "zip": "21640",
+        "city": "Henderson",
+        "county": "Caroline County"
+    },
+    {
+        "id": "1c133a72-a583-44d4-bcc5-4193478bbe4a",
+        "zip": "21641",
+        "city": "Hillsboro",
+        "county": "Caroline County"
+    },
+    {
+        "id": "6ce4252f-0b97-4337-8965-12b76aad7453",
+        "zip": "21643",
+        "city": "Hurlock",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "1a21cbc0-d9f2-4d6b-ad46-db322fa7b49f",
+        "zip": "21644",
+        "city": "Ingleside",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "475359cd-944e-4d45-94b7-87d249a4fa22",
+        "zip": "21645",
+        "city": "Kennedyville",
+        "county": "Kent County"
+    },
+    {
+        "id": "744dbd6b-097e-4ea6-b467-a85adc593d89",
+        "zip": "21647",
+        "city": "Mcdaniel",
+        "county": "Talbot County"
+    },
+    {
+        "id": "24260a5e-1651-4dcc-9d74-ec3e27d68279",
+        "zip": "21648",
+        "city": "Madison",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "17a05776-071f-4d87-89bd-995991a8efaf",
+        "zip": "21649",
+        "city": "Marydel",
+        "county": "Caroline County"
+    },
+    {
+        "id": "0b417f87-ba58-4729-9806-c702c344ab3a",
+        "zip": "21650",
+        "city": "Massey",
+        "county": "Kent County"
+    },
+    {
+        "id": "5d21beeb-f237-4616-8f7b-26b8806e3448",
+        "zip": "21651",
+        "city": "Millington",
+        "county": "Kent County"
+    },
+    {
+        "id": "1ac09aeb-7c8e-4000-9336-2793314302c6",
+        "zip": "21652",
+        "city": "Neavitt",
+        "county": "Talbot County"
+    },
+    {
+        "id": "a7bcfe52-601d-40a3-a29b-1321a170194f",
+        "zip": "21653",
+        "city": "Newcomb",
+        "county": "Talbot County"
+    },
+    {
+        "id": "c603cc2f-e868-4631-a09a-ff2b6f2a27b2",
+        "zip": "21654",
+        "city": "Oxford",
+        "county": "Talbot County"
+    },
+    {
+        "id": "2cb28be8-d2f1-44d4-a056-5b5544992000",
+        "zip": "21655",
+        "city": "Preston",
+        "county": "Caroline County"
+    },
+    {
+        "id": "cdf4b328-564f-4cbe-a7d9-c4338ce3dd45",
+        "zip": "21656",
+        "city": "Price",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "1c82034a-5299-432b-83f2-b67f4e9e5bef",
+        "zip": "21657",
+        "city": "Queen Anne",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "1e463ee0-038f-4484-a7cd-97a2b7ff6aef",
+        "zip": "21658",
+        "city": "Queenstown",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "14aff3f3-6f25-45ec-8b6d-95138d20029e",
+        "zip": "21659",
+        "city": "Rhodesdale",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "5f063998-c373-4895-b9c9-f906af88afbf",
+        "zip": "21660",
+        "city": "Ridgely",
+        "county": "Caroline County"
+    },
+    {
+        "id": "0d7ce67e-36e2-4d8b-a303-944f4d3d9110",
+        "zip": "21661",
+        "city": "Rock Hall",
+        "county": "Kent County"
+    },
+    {
+        "id": "f76806a9-7061-45b0-91e9-53d1441d9863",
+        "zip": "21662",
+        "city": "Royal Oak",
+        "county": "Talbot County"
+    },
+    {
+        "id": "96b4338d-c8ad-449e-b17e-ad4cd92a10b5",
+        "zip": "21663",
+        "city": "Saint Michaels",
+        "county": "Talbot County"
+    },
+    {
+        "id": "5f93e55c-63b7-4ca6-92e4-2ffed077904c",
+        "zip": "21664",
+        "city": "Secretary",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "eeb32155-6cae-4906-9d8e-87f3bfceb889",
+        "zip": "21665",
+        "city": "Sherwood",
+        "county": "Talbot County"
+    },
+    {
+        "id": "230f2903-96ef-4cbd-b1fc-5f897a9966c3",
+        "zip": "21666",
+        "city": "Stevensville",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "8f8a0f94-25e0-411a-b82b-6b06b2b197d7",
+        "zip": "21667",
+        "city": "Still Pond",
+        "county": "Kent County"
+    },
+    {
+        "id": "74fc20f6-304f-4ca9-a8ef-b8b418d6daf0",
+        "zip": "21668",
+        "city": "Sudlersville",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "e16f1bed-9102-4b64-8d52-5cdefe79172a",
+        "zip": "21669",
+        "city": "Taylors Island",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "36b92304-2350-449d-8490-d2750f4cdb48",
+        "zip": "21670",
+        "city": "Templeville",
+        "county": "Caroline County"
+    },
+    {
+        "id": "d2c5a3a5-680f-4693-94b5-d351a7864269",
+        "zip": "21671",
+        "city": "Tilghman",
+        "county": "Talbot County"
+    },
+    {
+        "id": "3859b1b9-1e53-4c7f-916c-7f047dc2d1f9",
+        "zip": "21672",
+        "city": "Toddville",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "60237b38-ecda-4da2-8527-43d3ea96bee8",
+        "zip": "21673",
+        "city": "Trappe",
+        "county": "Talbot County"
+    },
+    {
+        "id": "0be3d9fa-d9bd-40ad-bd35-af21ca505058",
+        "zip": "21675",
+        "city": "Wingate",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "b24e0e51-9ff9-4fc3-8602-aaf572104230",
+        "zip": "21676",
+        "city": "Wittman",
+        "county": "Talbot County"
+    },
+    {
+        "id": "c6baca09-29f7-47a8-867f-470b1e1c167c",
+        "zip": "21677",
+        "city": "Woolford",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "04738e88-0b52-4cbb-b34e-ce70868d860c",
+        "zip": "21678",
+        "city": "Worton",
+        "county": "Kent County"
+    },
+    {
+        "id": "c5b1bf3d-17be-42ce-8440-85eb70880f81",
+        "zip": "21679",
+        "city": "Wye Mills",
+        "county": "Talbot County"
+    },
+    {
+        "id": "0a1e2424-129b-42c6-9ac7-c67a3d9f890f",
+        "zip": "21681",
+        "city": "Ridgely",
+        "county": "Caroline County"
+    },
+    {
+        "id": "e3682a80-2df4-43ae-ab4c-7680963b96a2",
+        "zip": "21682",
+        "city": "Ridgely",
+        "county": "Caroline County"
+    },
+    {
+        "id": "ea3c8038-f864-45ef-a83f-a8685f312c70",
+        "zip": "21683",
+        "city": "Ridgely",
+        "county": "Caroline County"
+    },
+    {
+        "id": "ba68d5fc-502d-4892-8c95-59d58d0dc8a7",
+        "zip": "21684",
+        "city": "Ridgely",
+        "county": "Caroline County"
+    },
+    {
+        "id": "454bf7cd-9c6f-4e8b-b890-5bc6024da5e5",
+        "zip": "21685",
+        "city": "Ridgely",
+        "county": "Caroline County"
+    },
+    {
+        "id": "2b9ec8d5-defa-4e26-80f5-f99c6ec9036d",
+        "zip": "21686",
+        "city": "Ridgely",
+        "county": "Caroline County"
+    },
+    {
+        "id": "c4ce64f0-d9a7-415c-a5b3-e41da4b2a840",
+        "zip": "21687",
+        "city": "Ridgely",
+        "county": "Caroline County"
+    },
+    {
+        "id": "9ff296cf-75cc-4485-af02-26147f1c6a2d",
+        "zip": "21688",
+        "city": "Ridgely",
+        "county": "Caroline County"
+    },
+    {
+        "id": "a5d05c07-e3bb-498e-991b-5946fe36eec9",
+        "zip": "21690",
+        "city": "Chestertown",
+        "county": "Queen Anne's County"
+    },
+    {
+        "id": "02df38b3-0a72-4800-8717-99958ee20780",
+        "zip": "21701",
+        "city": "Frederick",
+        "county": "Frederick County"
+    },
+    {
+        "id": "abcba0b4-1e7b-41c1-bf5f-e17e6c9dc40c",
+        "zip": "21702",
+        "city": "Frederick",
+        "county": "Frederick County"
+    },
+    {
+        "id": "742b97d9-ca07-4fda-808b-020b05459201",
+        "zip": "21703",
+        "city": "Frederick",
+        "county": "Frederick County"
+    },
+    {
+        "id": "e359d819-d391-4801-a57c-0d0c8034b86c",
+        "zip": "21704",
+        "city": "Frederick",
+        "county": "Frederick County"
+    },
+    {
+        "id": "5e301930-1826-470f-9a9f-047b9f45248a",
+        "zip": "21705",
+        "city": "Frederick",
+        "county": "Frederick County"
+    },
+    {
+        "id": "f4897c7f-5fb7-4a01-bba5-1584f5958033",
+        "zip": "21709",
+        "city": "Frederick",
+        "county": "Frederick County"
+    },
+    {
+        "id": "995a61b8-8815-4f09-ac29-20d9d0938b08",
+        "zip": "21710",
+        "city": "Adamstown",
+        "county": "Frederick County"
+    },
+    {
+        "id": "ecb7749f-2a53-49d3-8b28-77279975105f",
+        "zip": "21711",
+        "city": "Big Pool",
+        "county": "Washington County"
+    },
+    {
+        "id": "fff7a0ff-4ae7-4bce-9b0a-c391090dcc06",
+        "zip": "21713",
+        "city": "Boonsboro",
+        "county": "Washington County"
+    },
+    {
+        "id": "a05e25be-893f-4bcb-a87c-238f837cafe3",
+        "zip": "21714",
+        "city": "Braddock Heights",
+        "county": "Frederick County"
+    },
+    {
+        "id": "bb35a099-3e2d-467c-b024-caf6c92a867f",
+        "zip": "21715",
+        "city": "Brownsville",
+        "county": "Washington County"
+    },
+    {
+        "id": "2f2eb8e4-f776-4b2c-b52e-5d43278f5548",
+        "zip": "21716",
+        "city": "Brunswick",
+        "county": "Frederick County"
+    },
+    {
+        "id": "ca2c8b7b-1d14-4ea0-bcca-78a943b1fb3c",
+        "zip": "21717",
+        "city": "Buckeystown",
+        "county": "Frederick County"
+    },
+    {
+        "id": "6c0570a5-6258-4031-a1cc-d8c02adff2c9",
+        "zip": "21718",
+        "city": "Burkittsville",
+        "county": "Frederick County"
+    },
+    {
+        "id": "087b0944-e1f4-46c4-bfd4-414e3ebf9f07",
+        "zip": "21719",
+        "city": "Cascade",
+        "county": "Washington County"
+    },
+    {
+        "id": "e10dd697-41e5-45a0-acc6-8551f5c0eb81",
+        "zip": "21720",
+        "city": "Cavetown",
+        "county": "Washington County"
+    },
+    {
+        "id": "905ce9ea-01c1-45af-aaa1-d982961252d6",
+        "zip": "21721",
+        "city": "Chewsville",
+        "county": "Washington County"
+    },
+    {
+        "id": "df8d93fe-d6a1-4f6f-a8f4-93558f7dc1e9",
+        "zip": "21722",
+        "city": "Clear Spring",
+        "county": "Washington County"
+    },
+    {
+        "id": "b72cc0ab-e5e3-4506-9828-43861bb95d4e",
+        "zip": "21723",
+        "city": "Cooksville",
+        "county": "Howard County"
+    },
+    {
+        "id": "0e78b4b4-d562-4b53-98d6-1802b98a876b",
+        "zip": "21727",
+        "city": "Emmitsburg",
+        "county": "Frederick County"
+    },
+    {
+        "id": "539fdfc4-7df7-4580-bc38-19960d3780cc",
+        "zip": "21733",
+        "city": "Fairplay",
+        "county": "Washington County"
+    },
+    {
+        "id": "578345ae-0dce-4cb3-96e5-3b4f3a2055f7",
+        "zip": "21734",
+        "city": "Funkstown",
+        "county": "Washington County"
+    },
+    {
+        "id": "441c7726-a7ca-4335-8682-1415f406b616",
+        "zip": "21737",
+        "city": "Glenelg",
+        "county": "Howard County"
+    },
+    {
+        "id": "0f3005ec-29e9-4378-b402-b62ed4ecf561",
+        "zip": "21738",
+        "city": "Glenwood",
+        "county": "Howard County"
+    },
+    {
+        "id": "8fbcd08a-6200-4c0a-bb86-bbd5ed50e96b",
+        "zip": "21740",
+        "city": "Hagerstown",
+        "county": "Washington County"
+    },
+    {
+        "id": "f4bff7e0-41f2-4630-bfe9-e5b99a5ae57b",
+        "zip": "21741",
+        "city": "Hagerstown",
+        "county": "Washington County"
+    },
+    {
+        "id": "12c6b59c-54cf-4b98-a52b-82e70be62083",
+        "zip": "21742",
+        "city": "Hagerstown",
+        "county": "Washington County"
+    },
+    {
+        "id": "030836be-3a02-46a5-968c-f6f053f41ac7",
+        "zip": "21746",
+        "city": "Hagerstown",
+        "county": "Washington County"
+    },
+    {
+        "id": "bb12cfea-307c-4002-aacc-c3a34752b52d",
+        "zip": "21747",
+        "city": "Hagerstown",
+        "county": "Washington County"
+    },
+    {
+        "id": "8d283934-da01-43f1-98dc-03f19f7b00ce",
+        "zip": "21748",
+        "city": "Hagerstown",
+        "county": "Washington County"
+    },
+    {
+        "id": "b80d35d7-1fd3-44fa-b89c-54ac57ffb9aa",
+        "zip": "21749",
+        "city": "Hagerstown",
+        "county": "Washington County"
+    },
+    {
+        "id": "67bbcb22-eaa6-466e-8781-82fae7f7acde",
+        "zip": "21750",
+        "city": "Hancock",
+        "county": "Washington County"
+    },
+    {
+        "id": "94a631e2-f56f-41b5-aaca-2148e8eb914e",
+        "zip": "21754",
+        "city": "Ijamsville",
+        "county": "Frederick County"
+    },
+    {
+        "id": "ee3188ab-9e53-4e5b-8628-5bdc4d466a3f",
+        "zip": "21755",
+        "city": "Jefferson",
+        "county": "Frederick County"
+    },
+    {
+        "id": "73e3d32b-6b93-4895-8ea0-156228ab57db",
+        "zip": "21756",
+        "city": "Keedysville",
+        "county": "Washington County"
+    },
+    {
+        "id": "9c6c4338-29f4-4ba1-ae2b-6b2fdfc579bd",
+        "zip": "21757",
+        "city": "Keymar",
+        "county": "Carroll County"
+    },
+    {
+        "id": "4497b340-674e-4517-b4eb-0c43ef7bc5b6",
+        "zip": "21758",
+        "city": "Knoxville",
+        "county": "Frederick County"
+    },
+    {
+        "id": "48f73810-ca98-4dc1-bef5-f87f5e08517a",
+        "zip": "21759",
+        "city": "Ladiesburg",
+        "county": "Frederick County"
+    },
+    {
+        "id": "532124fd-1a8d-46d7-817b-8d3ba13cd0d4",
+        "zip": "21762",
+        "city": "Libertytown",
+        "county": "Frederick County"
+    },
+    {
+        "id": "227c02e2-a6fa-42f1-b7f4-f95021f3dbcc",
+        "zip": "21765",
+        "city": "Lisbon",
+        "county": "Howard County"
+    },
+    {
+        "id": "8dacdb65-c086-40ad-82f1-31d809a81f87",
+        "zip": "21766",
+        "city": "Little Orleans",
+        "county": "Allegany County"
+    },
+    {
+        "id": "ecbbda50-d243-4aa1-81dc-f72af04ac774",
+        "zip": "21767",
+        "city": "Maugansville",
+        "county": "Washington County"
+    },
+    {
+        "id": "d5f022be-b852-4368-9037-035cc4bec329",
+        "zip": "21769",
+        "city": "Middletown",
+        "county": "Frederick County"
+    },
+    {
+        "id": "e0e23527-03f7-4204-a3a1-74ed36976b1d",
+        "zip": "21770",
+        "city": "Monrovia",
+        "county": "Frederick County"
+    },
+    {
+        "id": "69560295-2e86-4e7c-ab5d-1f9e0cd2c708",
+        "zip": "21771",
+        "city": "Mount Airy",
+        "county": "Frederick County"
+    },
+    {
+        "id": "26be43f1-ee2e-4581-9fb2-b11fd77d6a68",
+        "zip": "21773",
+        "city": "Myersville",
+        "county": "Frederick County"
+    },
+    {
+        "id": "097f3666-cd61-4e53-9e98-ea868972edad",
+        "zip": "21774",
+        "city": "New Market",
+        "county": "Frederick County"
+    },
+    {
+        "id": "2ba33eb9-8a87-4dc7-914e-316684d27afc",
+        "zip": "21775",
+        "city": "New Midway",
+        "county": "Frederick County"
+    },
+    {
+        "id": "affd6d2c-f371-4d4f-9585-a301584dd17f",
+        "zip": "21776",
+        "city": "New Windsor",
+        "county": "Carroll County"
+    },
+    {
+        "id": "18cb7cc2-f976-4d2f-8f47-90e1939ac6e1",
+        "zip": "21777",
+        "city": "Point Of Rocks",
+        "county": "Frederick County"
+    },
+    {
+        "id": "857ec580-87c8-4887-92ac-2e33fae4e080",
+        "zip": "21778",
+        "city": "Rocky Ridge",
+        "county": "Frederick County"
+    },
+    {
+        "id": "1c8065e3-ad33-47fa-9165-0e1fd2bc04a8",
+        "zip": "21779",
+        "city": "Rohrersville",
+        "county": "Washington County"
+    },
+    {
+        "id": "25ac7810-54d9-471e-81e4-688df380dda2",
+        "zip": "21780",
+        "city": "Sabillasville",
+        "county": "Frederick County"
+    },
+    {
+        "id": "355f9c11-43a1-41a7-bbbf-39eb8dad1739",
+        "zip": "21781",
+        "city": "Saint James",
+        "county": "Washington County"
+    },
+    {
+        "id": "863c73d9-ffed-451f-bb41-2e6d04acd0fe",
+        "zip": "21782",
+        "city": "Sharpsburg",
+        "county": "Washington County"
+    },
+    {
+        "id": "3da0ce82-ae0f-49b4-8fc4-a7a1383aa8da",
+        "zip": "21783",
+        "city": "Smithsburg",
+        "county": "Washington County"
+    },
+    {
+        "id": "0cb04b8e-f222-4021-82ef-2d7e34caf52a",
+        "zip": "21784",
+        "city": "Sykesville",
+        "county": "Carroll County"
+    },
+    {
+        "id": "7695942e-8745-4bab-8120-941361b4aaa8",
+        "zip": "21787",
+        "city": "Taneytown",
+        "county": "Carroll County"
+    },
+    {
+        "id": "0b7fea45-1b15-4cd4-8023-1abc8c04f784",
+        "zip": "21788",
+        "city": "Thurmont",
+        "county": "Frederick County"
+    },
+    {
+        "id": "e2a196f8-f07e-4310-9a96-ec8d7abe2bc0",
+        "zip": "21790",
+        "city": "Tuscarora",
+        "county": "Frederick County"
+    },
+    {
+        "id": "edb01f32-bc42-4f9c-a6d4-c512efc0b14b",
+        "zip": "21791",
+        "city": "Union Bridge",
+        "county": "Carroll County"
+    },
+    {
+        "id": "b8abb511-14da-432c-b44c-3d5af5476fbe",
+        "zip": "21792",
+        "city": "Unionville",
+        "county": "Frederick County"
+    },
+    {
+        "id": "3ecda8b9-d1d1-4337-8d69-f539ee74d074",
+        "zip": "21793",
+        "city": "Walkersville",
+        "county": "Frederick County"
+    },
+    {
+        "id": "5e4aacf0-cd9c-4386-aeb3-6599b45b132d",
+        "zip": "21794",
+        "city": "West Friendship",
+        "county": "Howard County"
+    },
+    {
+        "id": "9bb76964-7846-499c-a420-cebb95432ecb",
+        "zip": "21795",
+        "city": "Williamsport",
+        "county": "Washington County"
+    },
+    {
+        "id": "3ba76058-7eaf-419c-9067-9a37949dfcfb",
+        "zip": "21797",
+        "city": "Woodbine",
+        "county": "Howard County"
+    },
+    {
+        "id": "c981e1d1-8d86-4f1b-82ef-98fadbba531d",
+        "zip": "21798",
+        "city": "Woodsboro",
+        "county": "Frederick County"
+    },
+    {
+        "id": "1f66fbaf-7915-429e-a218-2065a8647f69",
+        "zip": "21801",
+        "city": "Salisbury",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "3fb52095-6ebf-41b7-b36e-2febe7753fe9",
+        "zip": "21802",
+        "city": "Salisbury",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "3787dbbe-7452-4cbb-bd86-108891176c4d",
+        "zip": "21803",
+        "city": "Salisbury",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "1b850aa8-6848-4b5d-8e12-235f07247b93",
+        "zip": "21804",
+        "city": "Salisbury",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "522dd231-9b1e-4d46-8a46-ade011a84619",
+        "zip": "21810",
+        "city": "Allen",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "3e8f5ace-796c-4cb8-be70-d013ec0ead8c",
+        "zip": "21811",
+        "city": "Berlin",
+        "county": "Worcester County"
+    },
+    {
+        "id": "52a7d4f5-1795-4248-ad43-9c6c6b45a650",
+        "zip": "21813",
+        "city": "Bishopville",
+        "county": "Worcester County"
+    },
+    {
+        "id": "aa29f07f-4ed2-4b70-9dd6-ed27a278c6e1",
+        "zip": "21814",
+        "city": "Bivalve",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "02e1fcf1-7b23-40f3-988a-fd6c372e4461",
+        "zip": "21817",
+        "city": "Crisfield",
+        "county": "Somerset County"
+    },
+    {
+        "id": "0bdd8bb2-a68f-470d-9bf0-b29b2fe9e131",
+        "zip": "21821",
+        "city": "Deal Island",
+        "county": "Somerset County"
+    },
+    {
+        "id": "cd536385-e8c5-48c4-a2ca-3b6e5c1b85f5",
+        "zip": "21822",
+        "city": "Eden",
+        "county": "Worcester County"
+    },
+    {
+        "id": "2a55d3fb-86a2-4dd0-9385-4d76fbe528c4",
+        "zip": "21824",
+        "city": "Ewell",
+        "county": "Somerset County"
+    },
+    {
+        "id": "44f59804-8f77-489a-9a9a-e518b7b36e6e",
+        "zip": "21826",
+        "city": "Fruitland",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "cb746ed4-3745-4da9-a505-06d794d954d6",
+        "zip": "21829",
+        "city": "Girdletree",
+        "county": "Worcester County"
+    },
+    {
+        "id": "b05fa72d-d48a-4cb4-9403-772fef86302f",
+        "zip": "21830",
+        "city": "Hebron",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "c26fbd1f-c4c8-42b6-94eb-9e278fd63bdd",
+        "zip": "21835",
+        "city": "Linkwood",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "af92c6b8-09b2-4f03-bb25-fba81dd162c4",
+        "zip": "21836",
+        "city": "Manokin",
+        "county": "Somerset County"
+    },
+    {
+        "id": "d1b76c08-1b79-422f-a355-1168e0607962",
+        "zip": "21837",
+        "city": "Mardela Springs",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "8e080820-fa85-4f7d-8839-1679b933043b",
+        "zip": "21838",
+        "city": "Marion Station",
+        "county": "Somerset County"
+    },
+    {
+        "id": "398b877f-3d03-4b34-9cd7-4c63b1150b78",
+        "zip": "21840",
+        "city": "Nanticoke",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "4cb45014-0e39-44ce-ab65-23d126fea27a",
+        "zip": "21841",
+        "city": "Newark",
+        "county": "Worcester County"
+    },
+    {
+        "id": "b37759dd-0c22-4b66-b63a-3e01f77c21c5",
+        "zip": "21842",
+        "city": "Ocean City",
+        "county": "Worcester County"
+    },
+    {
+        "id": "5818f1c2-5bd1-4660-b50f-cfd6b2424af7",
+        "zip": "21843",
+        "city": "Ocean City",
+        "county": "Worcester County"
+    },
+    {
+        "id": "8649733a-b487-4b77-8040-e20b53915171",
+        "zip": "21849",
+        "city": "Parsonsburg",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "58b4b3de-011b-4c83-ae5e-ba857dee3c1f",
+        "zip": "21850",
+        "city": "Pittsville",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "2a2ddd0e-cb38-43f9-bcd3-7c0b54346170",
+        "zip": "21851",
+        "city": "Pocomoke City",
+        "county": "Worcester County"
+    },
+    {
+        "id": "aeb42222-a1fe-48c8-8608-36f5d43d9c2b",
+        "zip": "21852",
+        "city": "Powellville",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "f46d0ac0-c2d4-4d7a-a81e-2b1bfcb9b8da",
+        "zip": "21853",
+        "city": "Princess Anne",
+        "county": "Somerset County"
+    },
+    {
+        "id": "6d226e5b-9d86-4914-8602-63fe9935e39b",
+        "zip": "21856",
+        "city": "Quantico",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "3c50e23f-4c49-402e-9de3-1677229d7a31",
+        "zip": "21857",
+        "city": "Rehobeth",
+        "county": "Somerset County"
+    },
+    {
+        "id": "d1fe803f-7280-49dc-89c2-67a032a24788",
+        "zip": "21861",
+        "city": "Sharptown",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "de0fedca-0ef0-45b2-951a-fed911d324b1",
+        "zip": "21862",
+        "city": "Showell",
+        "county": "Worcester County"
+    },
+    {
+        "id": "7b364ae0-2890-4f96-aa99-1a5bda64fe7e",
+        "zip": "21863",
+        "city": "Snow Hill",
+        "county": "Worcester County"
+    },
+    {
+        "id": "db221916-80dd-4920-9792-3ef1b3d1f810",
+        "zip": "21864",
+        "city": "Stockton",
+        "county": "Worcester County"
+    },
+    {
+        "id": "fa03f54c-b55e-439a-a9e8-89b847d3133a",
+        "zip": "21865",
+        "city": "Tyaskin",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "a3f7b992-10b4-42b9-b468-8b8b9d3f2da3",
+        "zip": "21866",
+        "city": "Tylerton",
+        "county": "Somerset County"
+    },
+    {
+        "id": "26a18dac-5034-4ba0-9ae9-044426becaf4",
+        "zip": "21867",
+        "city": "Upper Fairmount",
+        "county": "Somerset County"
+    },
+    {
+        "id": "e1320baa-8c63-4bad-8822-f9ec3caf92f0",
+        "zip": "21869",
+        "city": "Vienna",
+        "county": "Dorchester County"
+    },
+    {
+        "id": "a9960080-e67c-47f3-af24-72ef75f62b72",
+        "zip": "21871",
+        "city": "Westover",
+        "county": "Somerset County"
+    },
+    {
+        "id": "9545412e-1a58-4011-b801-637aa4c4d1d4",
+        "zip": "21872",
+        "city": "Whaleyville",
+        "county": "Worcester County"
+    },
+    {
+        "id": "1814da11-cc2e-4c6b-9480-65289c9dce16",
+        "zip": "21874",
+        "city": "Willards",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "f34e04f8-7237-4012-8300-146fb3caeb71",
+        "zip": "21875",
+        "city": "Delmar",
+        "county": "Wicomico County"
+    },
+    {
+        "id": "a9de2ec2-ed9f-4392-ac9c-7b886b6e92f1",
+        "zip": "21890",
+        "city": "Westover",
+        "county": "Somerset County"
+    },
+    {
+        "id": "9e9cda66-2041-4c37-833f-e451d9f3de15",
+        "zip": "21901",
+        "city": "North East",
+        "county": "Cecil County"
+    },
+    {
+        "id": "b3a4c5fa-bdf9-44f0-b7dc-96797e400833",
+        "zip": "21902",
+        "city": "Perry Point",
+        "county": "Cecil County"
+    },
+    {
+        "id": "330352a3-da9d-47bc-82d9-6d8ce7afe3e1",
+        "zip": "21903",
+        "city": "Perryville",
+        "county": "Cecil County"
+    },
+    {
+        "id": "e8eb63db-1c12-4bca-ac5c-6d0c2de2a450",
+        "zip": "21904",
+        "city": "Port Deposit",
+        "county": "Cecil County"
+    },
+    {
+        "id": "0fee6a08-7f11-4839-ab52-f3bf2180de82",
+        "zip": "21911",
+        "city": "Rising Sun",
+        "county": "Cecil County"
+    },
+    {
+        "id": "df317310-3965-464d-ac20-7dce77af1d30",
+        "zip": "21912",
+        "city": "Warwick",
+        "county": "Cecil County"
+    },
+    {
+        "id": "1f12ff12-4160-47c7-b675-69c8f6a0bd59",
+        "zip": "21913",
+        "city": "Cecilton",
+        "county": "Cecil County"
+    },
+    {
+        "id": "d3374eb4-5e5d-48e4-9a61-fd0e6183dbf1",
+        "zip": "21914",
+        "city": "Charlestown",
+        "county": "Cecil County"
+    },
+    {
+        "id": "d6b8e6ca-4508-490e-8c48-324707fbaa93",
+        "zip": "21915",
+        "city": "Chesapeake City",
+        "county": "Cecil County"
+    },
+    {
+        "id": "b3a058a1-d9ca-49be-bc24-5910bfadb391",
+        "zip": "21916",
+        "city": "Childs",
+        "county": "Cecil County"
+    },
+    {
+        "id": "d87a35de-35ca-4bee-9545-135f147e37b8",
+        "zip": "21917",
+        "city": "Colora",
+        "county": "Cecil County"
+    },
+    {
+        "id": "544db283-b198-474f-8670-26c3cd07153c",
+        "zip": "21918",
+        "city": "Conowingo",
+        "county": "Cecil County"
+    },
+    {
+        "id": "4e2060ed-7d45-4df0-a5de-2f039ef5cb95",
+        "zip": "21919",
+        "city": "Earleville",
+        "county": "Cecil County"
+    },
+    {
+        "id": "eba42281-2541-403b-aa7b-59db8c8e3542",
+        "zip": "21920",
+        "city": "Elk Mills",
+        "county": "Cecil County"
+    },
+    {
+        "id": "75bff9a4-9d71-40d0-b4af-2d15b1a015b3",
+        "zip": "21921",
+        "city": "Elkton",
+        "county": "Cecil County"
+    },
+    {
+        "id": "c174174f-8fba-4b0c-b353-21a80e899d13",
+        "zip": "21922",
+        "city": "Elkton",
+        "county": "Cecil County"
+    },
+    {
+        "id": "02d84b70-a0a3-4e74-b0d4-fde743294ea4",
+        "zip": "21930",
+        "city": "Georgetown",
+        "county": "Cecil County"
+    }
+]
