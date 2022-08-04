@@ -12,7 +12,7 @@ async function main() {
   await client.close();
   let resolvers = {
     Query: {
-      getZipByCode: async (parent: any, args: any) => {
+      getZipByCode: async (parent: any, args: any) :Promise<ZipResponse> => {
         await client.connect();
         let zipResult: ZipResponse = await zips.getZipByCode(args.code);
         await client.close();
