@@ -11,7 +11,7 @@ To test locally:
 * Correct scenario `curl -X POST http://localhost:4000/graphql/ -H "Content-Type: application/json" -d '{"query": "query getzip($arg1: String) { getZipByCode(code: $arg1){zip{ city county} }}","operationName": "getzip","variables": { "arg1": "20607" }}' `
 * Error scenario `curl -X POST http://localhost:4000/graphql/ -H "Content-Type: application/json" -d '{"query": "query getzip($arg1: String) { getZipByCode(code: $arg1){zip{ city county} }}","operationName": "getzip","variables": { "arg1": "2067" }}'  `
 
-To check store data go to Mongo Express UI http://localhost:8081/
+To check store data via Mongo Express UI http://localhost:8081/
 
 Writeup on what you would tackle next:
 * Add custom validator for zip code by using directives(according to: https://www.apollographql.com/blog/backend/validation/graphql-validation-using-directives/)
