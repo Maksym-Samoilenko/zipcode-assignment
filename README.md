@@ -20,3 +20,4 @@ Writeup on what you would tackle next:
 * Data conection should be defined is separate folder/files, not in app.ts and think about better handling of requests to database (open and close connection on each request need improvement)
 * Exception handling needs attention on 404 error `throw new ApolloError('No Zip code presented in datastore', '404');`   according to https://www.apollographql.com/docs/apollo-server/data/errors/ , and database work should be covered with exception handling.
 * Here unsuccessfull unit test  doesn't stop deployment, need to propose better solution.
+* Recheck more on graphql shema for zip codes, one-many relations (here is the simplest graphql schema about zip code) and null data inside graphql schema. 
